@@ -5,3 +5,10 @@
 2.[HerukoAccount](http://Heruko.com)
 3.[vscodeIDE](http://code.visualstudio.com)
 
+create a new environment 
+``
+
+conda create -p venv python=3.7 -y
+
+
+
