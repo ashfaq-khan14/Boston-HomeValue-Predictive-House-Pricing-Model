@@ -79,8 +79,6 @@
   ---               
 )]
 
-Here's a README for a Boston house price prediction project:
-
 ---
 
 # Boston House Price Prediction
@@ -118,7 +116,7 @@ The project utilizes the famous Boston Housing Dataset, which contains informati
 ## Usage
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/boston-house-prediction.git
+   git clone https://github.com/ashfaq-khan14/boston-house-pricing.git
    
 2. Install dependencies:
    
