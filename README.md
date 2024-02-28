@@ -73,7 +73,7 @@
 
 [vscodeIDE](http://code.visualstudio.com)
 
-[Demo](![image](https://github.com/ashfaq-khan14/boston-house-pricing/assets/120010803/ef197b6e-54e7-4873-b736-cbc228e07283)
+[Demo] <img (![image](https://github.com/ashfaq-khan14/boston-house-pricing/assets/120010803/ef197b6e-54e7-4873-b736-cbc228e07283)
 )]
 
 Here's a README for a Boston house price prediction project:
