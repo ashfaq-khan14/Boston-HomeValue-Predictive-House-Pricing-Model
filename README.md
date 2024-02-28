@@ -72,10 +72,11 @@
 [HerukoAccount](http://Heruko.com)
 
 [vscodeIDE](http://code.visualstudio.com)
-                    ![WhatsApp Image 2024-02-28 at 20 39 04_550d586a](https://github.com/ashfaq-khan14/boston-house-pricing/assets/120010803/74405af4-cfb6-4cf5-9579-5347702d0df0)
+
+  ----------------    ![WhatsApp Image 2024-02-28 at 20 39 04_550d586a](https://github.com/ashfaq-khan14/boston-house-pricing/assets/120010803/74405af4-cfb6-4cf5-9579-5347702d0df0)
 
 
-  ---        [Demo] <img (![image](https://github.com/ashfaq-khan14/boston-house-pricing/assets/120010803/ef197b6e-54e7-4873-b736-cbc228e07283
+  ---               
 )]
 
 Here's a README for a Boston house price prediction project:
