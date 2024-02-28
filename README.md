@@ -152,9 +152,3 @@ print("Mean Squared Error:", mse)
 - *Feature Engineering*: Explore additional features or transformations to improve model accuracy.
 - *Model Deployment*: Deploy the trained model as a web service or API for real-time predictions.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace yourusername, boston-house-prediction, and LICENSE with your actual details. Also, provide a requirements.txt file if there are specific dependencies for your project.
